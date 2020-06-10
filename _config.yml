@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+title: Aron-Nisbel
+subtitle: by Aron Nisbel
+email: aron.nisbel@hotmail.com
+description: I am a UX designer and developer student<br /> and released under the Creative Commons.
+baseurl: "/Aron-Nisbel" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+author: Aron Nisbel
+street_address: Mariehemsvägen 27A
+city: Umeå
+state: Västerbotten
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: Sweden
+phone: +46 73 821 32 22
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
