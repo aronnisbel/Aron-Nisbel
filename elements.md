@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Elements
+description: Climber, Gamer, and love random facts
+image: assets/images/climbing-me.jpg
 nav-menu: true
 ---
 

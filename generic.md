@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generic
-description: Lorem ipsum dolor est
+description: We won the award for the best concept and design for Umeå University's new app.
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

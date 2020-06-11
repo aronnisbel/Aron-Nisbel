@@ -1,33 +1,33 @@
 # site settings
-title: Aron-Nisbel
-subtitle: by Aron Nisbel
+title: Aron Nisbel
+subtitle:
 email: aron.nisbel@hotmail.com
-description: I am a UX designer and developer student<br /> and released under the Creative Commons.
+description: I'm a Master of Science student in Interaction Technology & Design at Umeå University and here is my Portfolio of projects I've made and been part of.
 baseurl: "/Aron-Nisbel" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author: Aron Nisbel
+author:
 street_address: Mariehemsvägen 27A
 city: Umeå
 state: Västerbotten
-zip_code: 55555
+zip_code: 90652
 country: Sweden
 phone: +46 73 821 32 22
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://github.com/HeavyKladdkaka
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/aronnisbel/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # build settings
 markdown: kramdown
