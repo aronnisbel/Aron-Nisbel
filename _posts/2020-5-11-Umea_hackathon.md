@@ -15,4 +15,6 @@ By expanding on the concept of hashtags and creating 3 kinds of tags to each pos
 
 <span class="image main"><img src="{{ site.baseurl }}/{{ page.image-2 }}" alt="" /></span>
 
+I learnt how diversity can contribute so incredibly much to a team work with the different perspectives and ideas. The whole experience of the event and our team work was amazing!
+
 As mentioned above, we won the hackathon and we were awarded the best concept and design. The price consisted of a trip to the HQ of Microsoft in Sweden since Microsoft was one of the sponsors. There we got a crash course in Axure and insights on how Microsoft developers go about their day and what they expect from students like us.
