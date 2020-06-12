@@ -17,13 +17,13 @@
 		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
 	    	{% endif %}
 		{% endfor %}
-		{% for page in site.html_pages %}
+		<!--{% for page in site.html_pages %}
 		    {% if page.layout != "home" and page.nav-menu == true %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}
-		{% endfor %}
+		{% endfor %}-->
 	</ul>
 	<ul class="actions vertical">
-		<li><a href="#" class="button special fit">All Projects</a></li>
+		<li><a href="all_posts.html" class="button special fit">One Page</a></li>
 	</ul>
 </nav>
