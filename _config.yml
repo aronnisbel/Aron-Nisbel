@@ -6,10 +6,10 @@ description: I'm a Master of Science student in Interaction Technology & Design 
 baseurl: "/Aron-Nisbel" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: Mariehemsvägen 27A
-city: Umeå
-state: Västerbotten
-zip_code: 90652
+street_address: Untravägen 7
+city: Stockholm
+state: Stockholms län
+zip_code: 11543
 country: Sweden
 phone: +46 73 821 32 22
 
