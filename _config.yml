@@ -4,7 +4,7 @@ subtitle:
 email: aron.nisbel@hotmail.com
 description: I'm a Master of Science student in Interaction Technology & Design at Umeå University and here is my Design Portfolio.
 baseurl: # the subpath of your site, e.g. /blog
-url: https://aronnisbel.github.io/
+url: https://aronnisbel.github.io
 author:
 street_address: Untravägen 7
 city: Stockholm
