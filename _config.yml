@@ -3,7 +3,7 @@ title: Aron Nisbel
 subtitle:
 email: aron.nisbel@hotmail.com
 description: I'm a Master of Science student in Interaction Technology & Design at Umeå University and here is my Design Portfolio of a handful of Design projects I've been part of.
-baseurl: "/Aron-Nisbel" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: Untravägen 7
@@ -20,7 +20,7 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/HeavyKladdkaka
+github_url: https://github.com/aronnisbel
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
