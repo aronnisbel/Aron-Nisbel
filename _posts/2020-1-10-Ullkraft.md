@@ -16,7 +16,15 @@ image-9: assets/images/ullkraft-5.png
 image-10: assets/images/ullkraft-6.png
 ---
 
-As a job during summer, me and a friend helped a small two-man-company to build their online store. The whole site from the ground up. Photos, graphical profile, code, and admin. The online store was a success until the guys running the company retired last year.
+Through the staffing company of Företagarna, Ullkraft AB reached out to Företagarna in need of a webshop. Ullkraft makes blankets and plaids of 100% wool. In a team of two, me and my friend:
+
+<ul>
+	<li>Remade their graphical profile and branding.</li>
+	<li>Built a webshop through Shopify with a self-made theme.</li>
+	<li>Created a story of their company to be displayed at the webshop through pictures and paragraphs.</li>
+	<li>Photographed their entire collection of blankets and plaids.</li>
+</ul>
+
 
 <h3>Front Page</h3>
 <span class="image main"><img src="{{ site.baseurl }}/{{ page.image-2 }}" alt="" /></span>
