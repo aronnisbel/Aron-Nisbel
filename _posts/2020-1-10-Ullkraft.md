@@ -22,7 +22,7 @@ Through the staffing company of Företagarna, Ullkraft AB reached out to Företa
 	<li>Remade their graphical profile and branding.</li>
 	<li>Built a webshop through Shopify with a self-made theme.</li>
 	<li>Created a story of their company to be displayed at the webshop through pictures and paragraphs.</li>
-	<li>Photographed their entire collection of blankets and plaids.</li>
+	<li>Photographed their entire collection of blankets and plaids (and some wild roaming sheep).</li>
 </ul>
 
 
