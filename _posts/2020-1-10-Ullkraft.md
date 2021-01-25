@@ -16,14 +16,17 @@ image-9: assets/images/ullkraft-5.png
 image-10: assets/images/ullkraft-6.png
 ---
 
-Through the staffing company of Företagarna, Ullkraft AB reached out to Företagarna in need of a webshop. Ullkraft makes blankets and plaids of 100% wool. In a team of two, me and my friend:
+Through the staffing company of Företagarna, Ullkraft AB reached out to Företagarna in need of a online store. Ullkraft were managed by two dudes in their 60s and they make blankets and plaids in a 100% wool. This means they needed a way to manage the online store that was not too difficult. This made us decide to go for Shopify which has a nice built in admin page. This is what I did:
 
 <ul>
 	<li>Remade their graphical profile and branding.</li>
 	<li>Built a webshop through Shopify with a self-made theme.</li>
 	<li>Created a story of their company to be displayed at the webshop through pictures and paragraphs.</li>
 	<li>Photographed their entire collection of blankets and plaids (and some wild roaming sheep).</li>
+	<li>Held a one day course for them in how to manage their new Shopify store.</li>
 </ul>
+
+The store was a success and they had several new customers, but they have since then retired and they stopped paying for the website domain in the summer of 2020. Below are screenshots of the online store with original pictures and design.
 
 
 <h3>Front Page</h3>
