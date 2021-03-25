@@ -26,7 +26,7 @@ Through the staffing company of Företagarna, Ullkraft AB reached out to Företa
 	<li>Held a one day course for them in how to manage their new Shopify store.</li>
 </ul>
 
-The store was a success and they had several new customers, but they have since then retired and they stopped paying for the website domain in the summer of 2020. Below are screenshots of the online store with original pictures and design.
+The store was a success and they had an increase in new customers, but they have since then retired and they stopped paying for the website domain in the summer of 2020. Below are screenshots of the online store with original pictures and design.
 
 
 <h3>Front Page</h3>
