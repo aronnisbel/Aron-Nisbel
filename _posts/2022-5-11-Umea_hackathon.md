@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Umeå Hackathon
-description: We won the award for best concept and design to Umeå University's new student app.
+description: We won the award for best concept and design to Umeå University's new student app
 image: assets/images/studentapp-1.png
 image-1: assets/images/studentapp.png
 image-2: assets/images/studentapp-10.png

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ullkraft AB
-description: Built an Online Store to a small company in need.
+description: Built an Online Store to a small company in need
 image: assets/images/ullkraft-3.png
 image-0: assets/images/ullkraft-1.png
 image-1: assets/images/ullkraft-2.png
