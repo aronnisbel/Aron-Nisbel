@@ -2,12 +2,12 @@
 title: Aron Nisbel
 subtitle:
 email: aron.nisbel@hotmail.com
-description: This is my UX and UI Design Portfolio.
+description: This is my UX Design Portfolio
 baseurl: # the subpath of your site, e.g. /blog
 url: https://aronnisbel.github.io
 author:
-street_address: Untravägen 7
-city: Stockholm
+street_address: Hökmossevägen 36A
+city: Hägersten
 state: Stockholms län
 zip_code: 11543
 country: Sweden
